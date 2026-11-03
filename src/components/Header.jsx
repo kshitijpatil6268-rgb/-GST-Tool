@@ -12,6 +12,10 @@ export default function Header() {
             </div>
             <div>
               <div className="flex items-center space-x-2">
+                <span className="inline-flex items-center px-2 py-0.5 rounded-md text-xs font-bold tracking-wide bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-xs">
+                  Kshitij Patil
+                </span>
+                <span className="text-slate-300">|</span>
                 <h1 className="text-xl sm:text-2xl font-bold tracking-tight text-slate-900">
                   GSTR-2B Reconciliation
                 </h1>
